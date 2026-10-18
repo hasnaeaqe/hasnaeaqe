@@ -47,14 +47,12 @@ I'm open to collaboration, internships, and opportunities to learn and grow as a
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnaeaqe&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnaeaqe&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hasnaeaqe&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-vercel.vercel.app/?user=hasnaeaqe&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaeaqe&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaeaqe&theme=dark&hide_border=true&layout=compact)
 
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=hasnaeaqe&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://visitcount.itsvg.in/api?id=hasnaeaqe&icon=0&color=0)
