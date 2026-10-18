@@ -45,12 +45,16 @@ I'm open to collaboration, internships, and opportunities to learn and grow as a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hasnaeaqe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hasnaeaqe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaeaqe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnaeaqe&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hasnaeaqe&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaeaqe&theme=dark&hide_border=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hasnaeaqe&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=hasnaeaqe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
