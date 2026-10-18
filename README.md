@@ -1,5 +1,19 @@
-# 💫 About Me:
-👋 Hi! I'm Hasnae Aqajjef, a student at ENSA Khouribga and a learner at 1337 School.<br>I'm currently studying Software Engineering and exploring the world of programming and technology.<br><br>🌱 As a beginner, I'm learning step by step and trying to improve my skills through practice, projects, and curiosity. I enjoy discovering new concepts and working on different types of applications.<br><br>💡 I'm passionate about problem-solving, creativity, and building things that can be useful or meaningful. Even if I'm still at the beginning of my journey, I'm motivated and excited to keep learning and growing as a developer.<br><br>🚀 Thanks for visiting my profile — feel free to connect!
+## About Me
+
+Hi! I'm **Hasnae Aqajjef**, a Computer Engineering student at **ENSA Khouribga**, interested in Software Engineering and Full-Stack Development.
+
+I'm passionate about designing and developing web applications, solving problems, and exploring new technologies. I'm continuously improving my skills through academic projects, personal projects, and hands-on practice.
+
+My interests include:
+- **Software Engineering:** software design, architecture, and application development.
+- **Full-Stack Development:** building interactive frontends and functional backends.
+- **Databases:** database design, data management, and SQL.
+- **Programming:** object-oriented programming, algorithms, and problem-solving.
+- **Tools & Technologies:** Git, GitHub, and modern development frameworks.
+
+I'm always eager to learn, take on new challenges, and turn ideas into practical applications. My goal is to become a skilled software engineer and contribute to meaningful projects.
+
+I'm open to collaboration, internships, and opportunities to learn and grow as a developer.
 
 
 ## 🌐 Socials:
