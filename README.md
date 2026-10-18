@@ -45,12 +45,19 @@ I'm open to collaboration, internships, and opportunities to learn and grow as a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## GitHub Stats
+##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnaeaqe&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hasnaeaqe&show_icons=true&theme=nord&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaeaqe&layout=compact&theme=nord&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaeaqe&theme=dark&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hasnaeaqe&theme=nord&hide_border=true" />
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasnaeaqe&color=blueviolet&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hasnaeaqe&color=blueviolet&style=flat" />
+</p>
